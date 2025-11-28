@@ -6,4 +6,3 @@ Code pipeline.
 ..
 ..
 ..
-..
